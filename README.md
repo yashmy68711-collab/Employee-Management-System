@@ -58,20 +58,4 @@ python-employee-management-system/
 6. Exit
 ```
 
----
 
-## 🔮 Future Improvements
-
-* Save employee records to a file
-* Load employee data automatically
-* Search employee by name
-* Department-wise employee list
-* Salary increment feature
-* Employee statistics dashboard
-* GUI version using Tkinter
-
----
-
-## 👨‍💻 Author
-
-Made with Python for learning Object-Oriented Programming (OOP), CRUD operations, and management system development.
